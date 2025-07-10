@@ -35,3 +35,5 @@ Scroll to the **Lead Capture Settings** and type your auto-reply message:
 ---
 
 Ready to impress your next lead? ⚡
+
+[⬆️ Back to Top](#setting-up-auto-replies)
