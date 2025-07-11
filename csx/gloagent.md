@@ -95,7 +95,7 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 > <iframe
 > src="https://www.gloquest.app/u/YOUR_FORM_ID"
 > width="100%"
-> height="600"
+> height="600">
 > </iframe>
 
 ---
