@@ -11,6 +11,7 @@ Welcome to the GloAgent guide! This section will walk you through configuring yo
   - [🤖 Auto Lead Capture](#auto-lead-capture)
 - [📊 Usage](#usage)
 - [📬 Inbox & Messaging](#inbox--messaging)
+- [📬 Mass Text & Followups](#mass-text-followup)
 - [❓ FAQs](#faqs)
 - [🛠 Troubleshooting](#troubleshooting)
 - [⬆️ Back to Top](#top)
@@ -99,7 +100,7 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 
 ---
 
-## 📊 Usage <a name="usage"></a>
+#### 📊 Usage <a name="usage"></a>
 
 The **Lead Capture Hub** is where all of your form-based leads drop in. Anytime a customer fills out your personalized lead form (from your QR code, website embed, or shared link), you'll see them appear here.
 
@@ -137,6 +138,54 @@ Example of an open text conversation:
 [⬆️ Back to Top](#top)
 
 ---
+
+#### 📣 Mass Texts & Follow-Ups <a name="mass-text-followup"></a>
+
+Need to message all your customers at once or schedule automated follow-ups? You’re in the right place. Whether you’re promoting seasonal specials, sending reminders, or following up with leads, Messaging & Follow-Ups helps you reach everyone quickly. Add your contacts from GloDesk™ CRM for easy one-click messaging, or enter numbers directly if they aren’t in your CRM yet. Plus, with follow-up sequences, you can automate your outreach—keeping your business top of mind without lifting a finger.
+
+> **📜 Note:** U.S. law requires us to collect your customer’s permission before sending promotional texts. We’ll attempt to capture consent automatically on your first outgoing message—but the most cost-effective way is to ask them to pre-consent using [this opt-in form](https://www.gloquest.app/sms-opt-in.html) which they can access without ever making account or signing in. Otherwise, your first message will be used just to request permission.
+
+---
+
+## ✉️ Send Mass Texts
+
+The **Messaging & Follow-Ups** screen lets you quickly reach one or multiple recipients:
+
+- Add **existing contacts** from your **GloDesk™ CRM** with one click using the **"Add Existing Contacts"** button.
+
+  > 💡 **Pro Tip:** Storing your customers in **GloDesk™ CRM** makes messaging faster and easier. Plus, it’s free—and helps keep your business organized. Your contact data stays secure and ready whenever you need it.
+
+- Prefer to message someone not in your CRM yet? Just enter their phone numbers, separated by commas:<br/>
+  Example: `4055991234, 4058771025`
+
+- Pick a **message preset** from our growing library, or type your own custom message.  
+  _(Have an idea for a new preset? Send us a feature request—we're always adding more!)_
+
+Messaging screen example:
+
+![Mass Text Example](../../assets/images/gloagent/gloAgentMassTextMain.png)
+
+---
+
+## 🔄 Manage Follow-Up Sequences
+
+Click **Manage Follow-Up Sequences** to schedule future messages to keep your leads warm.
+
+You’ll be able to:
+
+- Select a **preset sequence**, or build your own from scratch.
+- Add multiple steps, setting how many days to wait between each message.
+- Review all **pending follow-ups** and cancel any you no longer need (for example, if the customer already responded).
+
+Follow-up management is flexible—if you close the deal after the first message, you can stop the rest in one tap.
+
+Follow-up sequence example:
+
+![Follow-Up Screen](../../assets/images/gloagent/gloAgentFollowUp.png)
+
+---
+
+[⬆️ Back to Top](#top)
 
 ## ❓ FAQs
 
