@@ -30,7 +30,7 @@ Auto replies make sure your leads never feel ignored. Using this feature will en
 
 ![Open GloAgent](../../assets/images/gloagent/gloAgentMenu.png)
 
-**Step 2:** Tap the **hamburger menu** on the top-right:
+**Step 2:** Tap the **menu** on the top-right:
 
 ![Hamburger Menu](../../assets/images/gloagent/gloAgentHamburger.png)
 
@@ -69,7 +69,7 @@ Want leads to land directly in your inbox while you're out in the field? Auto Le
 You can personalize your lead capture form and QR code with your own business logo.
 
 - Paste a **logo image link** (public image URL) into the logo field. This will appear on your form and QR code preview.
-- Your unique **QR code** will update instantly and can be shared anywhere: on yard signs, trucks, or flyers.
+- Your unique **QR code** will update instantly and can be shared anywhere: on yard signs, trucks, business cards, your social media or flyers.
 
 Settings screen:
 
@@ -88,10 +88,10 @@ The number at the end (**99** in this example) is your **personal form ID**. It 
 
 ### 2️⃣ Share Your Form Link or Embed It
 
-Now share your form with the world and let GloAgent take care of qualifying and reaching out to the lead automatically to keep your lead pipeline running at max capacity:
+Now share your form with the world and let GloAgent take care of qualifying and reaching out to the lead automatically to keep your company's lead pipeline running at max capacity:
 
 - Copy the **direct link** to your form using the "Copy" button in the GloAgent settings.
-- If you're comfortable and technically inclined you can also embed the form on your website using the code below:
+- If you're comfortable and technically inclined you can also embed the form on your website using the code below, if you can't figure it out we're glad to help, just send us a report in app or email us any time at <a href="mailto:support@gloquest.app">support@gloquest.app</a>.
 
 ```html
 <iframe src="https://www.gloquest.app/u/YOUR_FORM_ID" width="100%" height="600">
@@ -102,7 +102,7 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 
 #### 📊 Usage <a name="usage"></a>
 
-The **Lead Capture Hub** is where all of your form-based leads drop in. Anytime a customer fills out your personalized lead form (from your QR code, website embed, or shared link), you'll see them appear here.
+The **Lead Capture Hub** is where all of your form-based leads drop in. Anytime a customer fills out your personalized qualifying lead form (from your QR code, website embed, or shared link), you'll see them appear here.
 
 You'll get a snapshot of:
 
@@ -110,7 +110,7 @@ You'll get a snapshot of:
 - Their **name**, **phone number**, and **address** (if collected)
 - A quick link to **add them to your CRM** for future automations and smart follow-ups
 
-Example of a form lead (placeholder):
+Form Lead:
 
 ![Form Lead Example](../../assets/images/gloagent/gloAgentFormLead.png)
 
@@ -127,7 +127,7 @@ What you'll find here:
 - ✅ Send replies from within
 - ✅ A clean view of open conversations and resolved chats
 
-Example of the text messaging inbox (placeholder):
+Example of the text messaging inbox:
 
 ![Inbox Overview](../../assets/images/gloagent/gloAgentTextlead1.png)
 
@@ -161,7 +161,7 @@ The **Messaging & Follow-Ups** screen lets you quickly reach one or multiple rec
 - Pick a **message preset** from our growing library, or type your own custom message.  
   _(Have an idea for a new preset? Send us a feature request—we're always adding more!)_
 
-Messaging screen example:
+Messaging screen:
 
 ![Mass Text Example](../../assets/images/gloagent/gloAgentMassTextMain.png)
 
@@ -179,7 +179,7 @@ You’ll be able to:
 
 Follow-up management is flexible—if you close the deal after the first message, you can stop the rest in one tap.
 
-Follow-up sequence example:
+Follow-up sequencee example:
 
 ![Follow-Up Screen](../../assets/images/gloagent/gloAgentFollowUps.png)
 
