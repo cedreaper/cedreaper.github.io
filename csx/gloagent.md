@@ -14,7 +14,6 @@ Welcome to the GloAgent guide! This section will walk you through configuring yo
 - [📬 Mass Text & Followups](#mass-text-followup)
 - [❓ FAQs](#faqs)
 - [🛠 Troubleshooting](#troubleshooting)
-- [⬆️ Back to Top](#top)
 
 ---
 

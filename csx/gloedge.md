@@ -11,7 +11,6 @@ Welcome to **GloEdge**, your pipeline to direct leads flowing straight from our 
 - [✅ Claiming a Lead](#claiming-a-lead)
 - [💼 Managing Your GloEdge Leads](#managing-your-gloedge-leads)
 - [🎯 Don’t Miss Out](#dont-miss-out)
-- [⬆️ Back to Top](#top)
 
 ---
 
