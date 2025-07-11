@@ -1,4 +1,4 @@
-# ⚙️ GloAgent Tutorials <a name="top"></a>
+# 🤖 GloAgent Guide <a name="top"></a>
 
 Welcome to the GloAgent guide! This section will walk you through configuring your agent profile, automating replies, and managing incoming leads.
 
@@ -191,9 +191,9 @@ Follow-up sequence example:
 
 <a name="faqs"></a>
 
-## 🤔 Why isn't my auto-reply sending for every message? Great question!
+## 🤔 Why isn't my auto-reply sending for every message?
 
-Your auto-reply is only sent on **the first message from a new lead**. We designed it
+Great question! Your auto-reply is only sent on **the first message from a new lead**. We designed it
 this way to avoid spamming your existing customers every time they send a
 message through the app. Otherwise, you'd end up re-sending the same intro
 message over and over—and burning through your SMS credits like it's holiday
@@ -201,15 +201,14 @@ light season 🎄😅. We're doing you a solid.
 
 ---
 
-- (More questions coming soon:
-  "How do I update my profile?", "Why didn’t my message send?", etc.)
-  [ ⬆️ Back toTop](#top)
+[ ⬆️ Back toTop](#top)
 
 ---
 
 ## 🛠 Troubleshooting <a name="troubleshooting"></a>
 
-[⬆️ Backto Top](#top)
+- 🛠 Coming Soon 🛠
+  [⬆️ Backto Top](#top)
 
 ```
 
