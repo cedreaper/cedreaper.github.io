@@ -75,7 +75,7 @@ Once you claim a lead:
 
 CRM View:
 
-![CRM View](../../assets/images/gloedge/glEdgeLeadCrm.png)
+![CRM View](../../assets/images/gloedge/gloEdgeLeadCrm.png)
 
 ---
 
