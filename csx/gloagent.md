@@ -113,10 +113,10 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 
 <a name="inbox--messaging"></a>
 
--(Future content: Show how replies from auto-messages appear in your inbox and
-how to respond to them.)
+- (Future content: Show how replies from auto-messages appear in your inbox and
+  how to respond to them.)
 
-\_ [⬆️ Back to Top](#top)
+- [⬆️ Back to Top](#top)
 
 ---
 
@@ -134,8 +134,9 @@ light season 🎄😅. We're doing you a solid.
 
 ---
 
-_(More questions coming soon:
-"How do I update my profile?", "Why didn’t my message send?", etc.)_ [⬆️ Back toTop](#top)
+- (More questions coming soon:
+  "How do I update my profile?", "Why didn’t my message send?", etc.)
+- ⬆️ Back toTop](#top)
 
 ---
 
