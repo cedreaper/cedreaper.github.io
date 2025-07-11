@@ -195,8 +195,7 @@ Follow-up sequencee example:
 Great question! Your auto-reply is only sent on **the first message from a new lead**. We designed it
 this way to avoid spamming your existing customers every time they send a
 message through the app. Otherwise, you'd end up re-sending the same intro
-message over and over—and burning through your SMS credits like it's holiday
-light season 🎄😅. We're doing you a solid.
+message over and over and burning through your SMS credits like it's holiday light season 🎄😅.
 
 ---
 
