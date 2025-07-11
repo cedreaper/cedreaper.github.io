@@ -57,13 +57,13 @@ Auto replies make sure your leads never feel ignored. Using this feature will en
 
 ---
 
-### 🤖 Auto Lead Capture <a name="auto-lead-capture"></a>
+#### 🤖 Auto Lead Capture <a name="auto-lead-capture"></a>
 
 Want leads to land directly in your inbox while you're out in the field? Auto Lead Capture makes it simple. Here’s how to set it up:
 
 ---
 
-#### 1️⃣ Add Your Business Logo & Generate a QR Code
+### 1️⃣ Add Your Business Logo & Generate a QR Code
 
 You can personalize your lead capture form and QR code with your own business logo.
 
@@ -85,7 +85,7 @@ The number at the end (**99** in this example) is your **personal form ID**. It 
 
 ---
 
-#### 2️⃣ Share Your Form Link or Embed It
+### 2️⃣ Share Your Form Link or Embed It
 
 Now share your form with the world and let GloAgent take care of qualifying and reaching out to the lead automatically to keep your lead pipeline running at max capacity:
 
@@ -99,23 +99,42 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 
 ---
 
-### 📊 Usage <a name="usage"></a>
+## 📊 Usage <a name="usage"></a>
 
-- (Future content: Explain how to claim leads, schedule follow-ups, and track
-  performance.)
+The **Lead Capture Hub** is where all of your form-based leads drop in. Anytime a customer fills out your personalized lead form (from your QR code, website embed, or shared link), you'll see them appear here.
 
-- [⬆️ Back to Top](#top)
+You'll get a snapshot of:
+
+- The customer's **budget range** and **preferred install timeframe**
+- Their **name**, **phone number**, and **address** (if collected)
+- A quick link to **add them to your CRM** for future automations and smart follow-ups
+
+Example of a form lead (placeholder):
+
+![Form Lead Example](../../assets/images/gloagent/gloAgentFormLead.png)
 
 ---
 
-## 📬 Inbox & Messaging
+## 📬 Inbox & Messaging <a name="inbox--messaging"></a>
 
-<a name="inbox--messaging"></a>
+The **Messaging & Follow-Ups** area is your real-time conversation inbox. Think of it like your business text messages—except now, they're all organized in one place and directly tied to your leads.
 
-- (Future content: Show how replies from auto-messages appear in your inbox and
-  how to respond to them.)
+What you'll find here:
 
-- [⬆️ Back to Top](#top)
+- ✅ Full message history, just like your phone's text inbox
+- ✅ Instant replies when customers text back from your auto-reply
+- ✅ Send replies from within
+- ✅ A clean view of open conversations and resolved chats
+
+Example of the text messaging inbox (placeholder):
+
+![Inbox Overview](../../assets/images/gloagent/gloAgentTextLead1.png)
+
+Example of an open text conversation:
+
+![Conversation Example](../../assets/images/gloagent/gloAgentTextLead2.png)
+
+[⬆️ Back to Top](#top)
 
 ---
 
@@ -135,7 +154,7 @@ light season 🎄😅. We're doing you a solid.
 
 - (More questions coming soon:
   "How do I update my profile?", "Why didn’t my message send?", etc.)
-- ⬆️ Back toTop](#top)
+  [ ⬆️ Back toTop](#top)
 
 ---
 
