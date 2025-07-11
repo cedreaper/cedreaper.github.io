@@ -92,23 +92,28 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 - Copy the **direct link** to your form using the "Copy" button in the GloAgent settings.
 - If you're comfortable and technically inclined you can also embed the form on your website using the code below:
 
-```html
-<iframe
-  src="https://www.gloquest.app/u/YOUR_FORM_ID"
-  width="100%"
-  height="600"
-></iframe>
-```
+> <iframe
+> src="https://www.gloquest.app/u/YOUR_FORM_ID"
+> width="100%"
+> height="600"
+> </iframe>
 
 ---
 
 ### 📊 Usage <a name="usage"></a>
 
-_(Future content: Explain how to claim leads, schedule follow-ups, and track
-performance.)_ [⬆️ Back to Top](#top) --- ## 📬 Inbox & Messaging
+- (Future content: Explain how to claim leads, schedule follow-ups, and track
+  performance.)
+
+- [⬆️ Back to Top](#top)
+
+---
+
+## 📬 Inbox & Messaging
+
 <a name="inbox--messaging"></a>
 
-\_(Future content: Show how replies from auto-messages appear in your inbox and
+-(Future content: Show how replies from auto-messages appear in your inbox and
 how to respond to them.)
 
 \_ [⬆️ Back to Top](#top)
@@ -125,7 +130,11 @@ auto-reply is only sent on **the first message from a new lead**. We designed it
 this way to avoid spamming your existing customers every time they send a
 message through the app. Otherwise, you'd end up re-sending the same intro
 message over and over—and burning through your SMS credits like it's holiday
-light season 🎄😅. We're doing you a solid. --- _(More questions coming soon:
+light season 🎄😅. We're doing you a solid.
+
+---
+
+_(More questions coming soon:
 "How do I update my profile?", "Why didn’t my message send?", etc.)_ [⬆️ Back toTop](#top)
 
 ---
@@ -133,3 +142,7 @@ light season 🎄😅. We're doing you a solid. --- _(More questions coming soon
 ## 🛠 Troubleshooting <a name="troubleshooting"></a>
 
 [⬆️ Backto Top](#top)
+
+```
+
+```
