@@ -92,11 +92,10 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 - Copy the **direct link** to your form using the "Copy" button in the GloAgent settings.
 - If you're comfortable and technically inclined you can also embed the form on your website using the code below:
 
-> <iframe
-> src="https://www.gloquest.app/u/YOUR_FORM_ID"
-> width="100%"
-> height="600">
-> </iframe>
+```html
+<iframe src="https://www.gloquest.app/u/YOUR_FORM_ID" width="100%" height="600">
+</iframe>
+```
 
 ---
 
@@ -124,9 +123,9 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 
 <a name="faqs"></a>
 
-## 🤔 Why isn't my auto-reply sending for every message? Great question! Your
+## 🤔 Why isn't my auto-reply sending for every message? Great question!
 
-auto-reply is only sent on **the first message from a new lead**. We designed it
+Your auto-reply is only sent on **the first message from a new lead**. We designed it
 this way to avoid spamming your existing customers every time they send a
 message through the app. Otherwise, you'd end up re-sending the same intro
 message over and over—and burning through your SMS credits like it's holiday
