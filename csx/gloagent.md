@@ -74,7 +74,7 @@ Settings screen:
 
 ![QR Code Settings](../../assets/images/gloagent/gloAgentQrLeadLogo.png)
 
-Example of the lead form preview with where you logo will appear if set:
+Example of the lead form preview with where your logo will appear if set:
 
 ![QR Code Preview](../../assets/images/gloagent/gloAgentFormLogo.png)
 
@@ -92,14 +92,14 @@ Now share your form with the world and let GloAgent take care of qualifying and 
 - Copy the **direct link** to your form using the "Copy" button in the GloAgent settings.
 - If you're comfortable and technically inclined you can also embed the form on your website using the code below:
 
-```html
+````html
 <iframe
   src="https://www.gloquest.app/u/YOUR_FORM_ID"
   width="100%"
   height="600"
 ></iframe>
 
---- ## 📊 Usage <a name="usage"></a>
+```markdown --- ## 📊 Usage <a name="usage"></a>
 
 _(Future content: Explain how to claim leads, schedule follow-ups, and track
 performance.)_ [⬆️ Back to Top](#top) --- ## 📬 Inbox & Messaging
@@ -120,4 +120,4 @@ Top](#top) --- ## 🛠 Troubleshooting <a name="troubleshooting"></a>
 
 _(Future content: Debug message delivery, verify Twilio setup, etc.)_ [⬆️ Back
 to Top](#top)
-```
+````
