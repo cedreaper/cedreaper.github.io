@@ -129,7 +129,7 @@ What you'll find here:
 
 Example of the text messaging inbox (placeholder):
 
-![Inbox Overview](../../assets/images/gloagent/gloAgentTextLead1.png)
+![Inbox Overview](../../assets/images/gloagent/gloAgentTextlead1.png)
 
 Example of an open text conversation:
 
@@ -181,7 +181,7 @@ Follow-up management is flexible—if you close the deal after the first message
 
 Follow-up sequence example:
 
-![Follow-Up Screen](../../assets/images/gloagent/gloAgentFollowUp.png)
+![Follow-Up Screen](../../assets/images/gloagent/gloAgentFollowUps.png)
 
 ---
 
