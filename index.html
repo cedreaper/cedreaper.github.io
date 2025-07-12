@@ -17,6 +17,25 @@
         position: relative;
       }
 
+      .partner-banner {
+        width: 100%;
+        padding: 12px 20px;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.08);
+        color: #fff;
+        font-size: 0.95rem;
+        font-weight: 500;
+        z-index: 3;
+        position: absolute;
+        top: 0;
+      }
+
+      .partner-banner a {
+        color: #ffcc00;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
       .unmute-button {
         position: absolute;
         top: 200px;
@@ -45,6 +64,7 @@
         text-align: center;
         z-index: 1;
       }
+
       .cta-button {
         padding: 14px 28px;
         font-size: 1rem;
@@ -57,12 +77,21 @@
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
         transition: background 0.3s ease;
       }
+
       .cta-button:hover {
         background-color: #e6b800;
       }
     </style>
   </head>
   <body>
+    <div class="partner-banner">
+      👟 Powered in part by
+      <a href="https://www.contrafootwear.com" target="_blank"
+        >Contra Footwear</a
+      >
+      — rugged comfort meets hustle.
+    </div>
+
     <video width="100%" style="margin-top: 35%" autoplay muted loop playsinline>
       <source src="/assets/videos/RapidGloTeaser.mp4" type="video/mp4" />
       Your browser does not support the video tag.
@@ -73,22 +102,18 @@
         Learn More at GloQuest →
       </a>
     </div>
-    <button
-      id="unmuteBtn"
-      style="position: absolute; top: 20px; right: 20px; z-index: 2"
-    >
-      🔊 Unmute
-    </button>
+
+    <button id="unmuteBtn" class="unmute-button">🔊 Unmute</button>
+
+    <script>
+      const video = document.querySelector('video');
+      const unmuteBtn = document.getElementById('unmuteBtn');
+
+      unmuteBtn.addEventListener('click', () => {
+        video.muted = false;
+        video.play();
+        unmuteBtn.style.display = 'none';
+      });
+    </script>
   </body>
 </html>
-
-<script>
-  const video = document.querySelector('video');
-  const unmuteBtn = document.getElementById('unmuteBtn');
-
-  unmuteBtn.addEventListener('click', () => {
-    video.muted = false;
-    video.play();
-    unmuteBtn.style.display = 'none';
-  });
-</script>
