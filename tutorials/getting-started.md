@@ -10,7 +10,7 @@ Welcome to **GloQuest**, where your lighting business gets the tools to shine br
 2. **Set your Auto-Reply** so leads hear from you instantly.
 3. **Install lights, make people smile.** 🎄
 
-Need help? Reach us anytime at [support@gloquest.app](mailto:support@gloquest.app)
+Need help or have an idea for something new? Reach us anytime at [support@gloquest.app](mailto:support@gloquest.app)
 
 ---
 
@@ -33,7 +33,7 @@ Here’s how to stock up and save:
 
 ## 🤝 Earn Unlimited Credits: Referral Program
 
-Want to unlock premium features **without spending a dime?** Share your **Referral Link** (you’ll find it at the bottom of your dashboard screen) and invite other contractors.
+Want free credits? Share your **Referral Link** (you’ll find it at the bottom of your dashboard screen) and invite other contractors.
 
 For every legitimate referral:
 
@@ -41,7 +41,7 @@ For every legitimate referral:
 - No limits. No cap. Just pure upside.
 
 **Pro Tip:** We’ve seen the best results when users post their referral link in **Christmas light installer groups on Facebook and other social circles.**  
-Some contractors have earned **thousands of credits**, covering all their pre-season costs.
+Some contractors have earned **thousands of credits**, covering most their pre-season costs.
 
 Start sharing in the places where other pros hang out and watch your credits pile up.
 
@@ -52,11 +52,12 @@ Start sharing in the places where other pros hang out and watch your credits pil
 Be sure to explore the other guides available for each tool in your dashboard:
 
 - 🎯 **Lead Management**: Find and claim opportunities near you.
-- 🎨 **AI Mockup + RapidGlo Tools**: Create stunning lighting previews.
+- 🎨 **AI Mockup**: Create stunning lighting previews.
+- ⚡ **RapidGlo Mockup Tool**: Create cinematic mockups complete with built-in measurements and quoting ability. Mockup. Measure. Quote. Done.
 - 📏 **Measurements & Estimates**: Quote faster and smarter.
 - 💼 **Contractor Dashboard**: Manage your entire pipeline in one place.
 
-This guide will evolve as GloQuest grows—more features, walkthroughs, and pro tips are coming soon.
+This guide will evolve as we document more of the things we've been working on — more features, walkthroughs, and pro tips are coming soon.
 
 ---
 
