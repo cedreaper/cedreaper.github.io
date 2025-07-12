@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RapidGlo</title>
     <style>
       * {
         margin: 0;
@@ -14,12 +13,40 @@
       body {
         height: 100%;
         background-color: #000;
+        font-family: sans-serif;
+        position: relative;
       }
       video {
         object-fit: cover;
         width: 100%;
         height: 100%;
         display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 0;
+      }
+      .cta-container {
+        position: absolute;
+        bottom: 30px;
+        width: 100%;
+        text-align: center;
+        z-index: 1;
+      }
+      .cta-button {
+        padding: 14px 28px;
+        font-size: 1rem;
+        background-color: #ffcc00;
+        color: #000;
+        border: none;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: bold;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        transition: background 0.3s ease;
+      }
+      .cta-button:hover {
+        background-color: #e6b800;
       }
     </style>
   </head>
@@ -28,5 +55,11 @@
       <source src="/assets/videos/RapidGloTeaser.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
+
+    <div class="cta-container">
+      <a href="https://www.gloquest.app/contractor" class="cta-button">
+        Learn More at GloQuest →
+      </a>
+    </div>
   </body>
 </html>
