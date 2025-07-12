@@ -1,6 +1,6 @@
-# 🎨 AI Mockup Tool (Beta) <a name="top"></a>
+# 🎨 AI Mockup Tool (Beta) Guide <a name="top"></a>
 
-Welcome to the **AI Mockup Tool**, your fast-track to creating stunning lighting mockups using just a photo. This feature is currently in **Beta**, meaning we’re still improving it—but it’s ready for you to try today.
+Welcome to the **AI Mockup Tool** guide, your fast-track to creating stunning lighting mockups using just a photo. This feature is currently in **Beta**, meaning we’re still improving it—but it’s ready for you to try today. You can find this feature on your contractor dashboard.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to the **AI Mockup Tool**, your fast-track to creating stunning lighting
 
 Creating an AI-powered lighting mockup takes less than a minute:
 
-1. Upload a clear photo of your project (house, tree, fence, etc.).
+1. Upload a clear photo of the home you want to outline the front of with lights.
 2. Choose **up to two colors** for your lights.
 3. Click **Generate** and let our AI create a mockup.
 
