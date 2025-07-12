@@ -29,13 +29,13 @@ Creating an AI-powered lighting mockup takes less than a minute:
 
 ## 🖼️ Example Mockups <a name="example-mockups"></a>
 
-Example Before:
+Before:
 
-![Before Mockup](../../assets/images/mockup/beforePlaceholder.png)
+![Before Mockup](../../assets/images/aimockup/windsor.png)
 
-Example After:
+After:
 
-![After Mockup](../../assets/images/mockup/afterPlaceholder.png)
+![After Mockup](../../assets/images/aimockup/aimock1.png)
 
 ---
 
