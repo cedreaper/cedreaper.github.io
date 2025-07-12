@@ -6,7 +6,7 @@
     <title>Contractor Knowledgebase</title>
     <link rel="stylesheet" href="../styles/style.css" />
   </head>
-  <body>
+  <body onload="loadMarkdown('tutorials/getting-started.md')">
     <header>
       <h1>⚙️ GloQuest Contractor Guide</h1>
     </header>
@@ -20,9 +20,7 @@
       <button onclick="loadMarkdown('aimockup.md')">A.I. Mockups</button>
     </nav>
 
-    <main id="content">
-      <p>Select a guide above to begin.</p>
-    </main>
+    <main id="content"></main>
 
     <footer>© 2025 GloQuest</footer>
 
