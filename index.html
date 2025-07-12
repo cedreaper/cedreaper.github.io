@@ -16,16 +16,28 @@
         font-family: sans-serif;
         position: relative;
       }
-      video {
-        object-fit: cover;
-        width: 100%;
-        height: 80%;
-        display: block;
+
+      .unmute-button {
         position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 0;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        padding: 12px 20px;
+        font-size: 1rem;
+        background-color: rgba(255, 204, 0, 0.9);
+        border: none;
+        border-radius: 8px;
+        font-weight: bold;
+        color: #000;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+        transition: background 0.3s ease;
       }
+
+      .unmute-button:hover {
+        background-color: rgba(230, 184, 0, 0.9);
+      }
+
       .cta-container {
         position: absolute;
         bottom: 30px;
@@ -51,7 +63,7 @@
     </style>
   </head>
   <body>
-    <video autoplay muted loop playsinline>
+    <video width="100%" autoplay muted loop playsinline>
       <source src="/assets/videos/RapidGloTeaser.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
