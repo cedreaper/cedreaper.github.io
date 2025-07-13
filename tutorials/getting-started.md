@@ -45,15 +45,17 @@ Contractors who load up early gain a **competitive edge**, save more, and avoid 
 
 Here’s how to stock up and save:
 
+- 🟡 **Like & Follow Us on Facebook**  
+  👉 [**facebook.com/GloQuest-Official**](https://www.facebook.com/p/GloQuest-Official-61566457803398/) 👈  
+  Don’t leave free credits on the table — we post giveaways, flash contests, and insider tips you won’t want to miss. Seriously, folks have racked up credits just by watching our timeline.
+
 - 💰 **Buy Credits in the App**  
   The best deals happen **before peak season hits.** Buying early = more tools, more savings.
 
 - ⚡ **Watch for Flash Sales**  
   We occasionally drop surprise sales with bonus credits—usually when you least expect it.
 
-- 👍 **Like & Follow our Facebook page**  
-  [facebook.com/GloQuest-Official](https://www.facebook.com/p/GloQuest-Official-61566457803398/)  
-  You’ll find free credit giveaways, contests, and pro tips to help you succeed.
+> 🔥 **Pro Tip:** Waiting too long can cost you opportunities. The sooner you stock credits, the sooner you unlock tools that help land high-ticket installs. Most pros don’t wait—neither should you.
 
 ---
 
