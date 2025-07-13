@@ -100,7 +100,7 @@
         target="_blank"
         >👉 Contra Footwear 👈
       </a>
-      — Roof Traction ❤️❤️
+      — Roof Traction ❤️
     </div>
 
     <video width="100%" style="margin-top: 35%" autoplay muted loop playsinline>
@@ -120,12 +120,21 @@
       const video = document.querySelector('video');
       const unmuteBtn = document.getElementById('unmuteBtn');
       const cta = document.querySelector('.cta-container');
+      const partnerBanner = document.querySelector('.partner-banner');
       const params = new URLSearchParams(window.location.search);
 
       if (params.get('hidecta') === 'true') {
         if (cta) cta.style.display = 'none';
+
         video.style.marginTop = '0';
-        unmuteBtn.style.top = '60px';
+        unmuteBtn.style.top = '40px';
+
+        if (partnerBanner) {
+          partnerBanner.style.background = 'transparent';
+          partnerBanner.style.backdropFilter = 'none';
+          partnerBanner.style.borderBottom = 'none';
+          partnerBanner.style.padding = '8px 0';
+        }
       }
 
       unmuteBtn.addEventListener('click', () => {
