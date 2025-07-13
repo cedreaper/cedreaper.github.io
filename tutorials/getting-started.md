@@ -6,8 +6,8 @@ Welcome to **GloQuest**, where your lighting business gets the tools to shine br
 
 ## ✅ Quick Start Checklist
 
-1. **Claim your first lead** and start building your customer base.
-2. **Set your Auto-Reply** so leads hear from you instantly.
+1. **Stock up your Free built-in GloDesk CRM** and start automating your customer outreach from a single location.
+2. **Set your GloAgent Auto-Reply** so new leads hear from you instantly.
 3. **Install lights, make people smile.** 🎄
 
 Need help or have an idea for something new? Reach us anytime at [support@gloquest.app](mailto:support@gloquest.app)
@@ -111,6 +111,22 @@ Want more visibility in the app? Launch a graphic ad that appears where users al
 > 💡 **Pro Tip:** Ads are only shown to potential clients — your competitors won’t even know you're being seen.
 
 > 📱 You don’t need a laptop or tablet — everything works right from the smartphone you already carry.
+
+---
+
+## 📋 Manage Rapid Quotes in Real Time
+
+With GloQuest, you’re in full control even after the quote is sent. The **Rapid Estimate Manager** lets you edit your Rapid Quotes on the fly — no more awkward follow-ups or mismatched pricing.
+
+- 🖊️ Made a mistake on your pricing? Fix it instantly.
+- 📏 Don’t want to show footage or price per foot? Toggle it off.
+- 👁️ See exactly what your customer sees with the **live preview**.
+
+Estimates auto-expire after **7 days**, so don’t forget to **export your quotes** if you want to keep a record for your portfolio or later use.
+
+> 📈 You'll also get a summary view of all your quotes: total number sent, average ticket value, and quick stats to help you improve your close rate.
+
+> 📱 All of this works directly from your smartphone — no laptop or tablet required.
 
 ---
 
