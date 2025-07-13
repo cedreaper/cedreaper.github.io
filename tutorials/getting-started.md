@@ -14,20 +14,46 @@ Need help or have an idea for something new? Reach us anytime at [support@gloque
 
 ---
 
+## 🎬 Try RapidGlo: Cinematic Mockups that Close
+
+Want to stand out from the competition in seconds?
+
+With **RapidGlo**, you can:
+
+- Snap a photo of a house
+- Easily outline rooftops
+- Auto-generate footage and quotes
+- Create pro-grade previews in one seamless flow
+
+> 🔓 You can try it now by visiting the **RapidGlo tab in the app.**  
+> Even basic users get a taste. Once you try it, you’ll never go back.
+
+---
+
 ## 🎯 Start with Credits: Fuel for the Tools
 
-GloQuest runs on a **credits-based system.** Many features are **completely free**, but advanced tools like AI mockups, premium lead claiming, and instant measurements require credits.
+GloQuest runs on a **credits-based system.** While many features are completely free, the real power—the kind that **wins high-ticket jobs**—comes from unlocking advanced tools.
+
+**Credits unlock:**
+
+- AI-powered mockups
+- Instant lead claiming
+- Precision measurements
+- Pro-level features like SnapLine and Decor Packs
+
+Contractors who load up early gain a **competitive edge**, save more, and avoid the last-minute scramble.
 
 Here’s how to stock up and save:
 
-- 👍 **Like & Follow our Facebook page**  
-  You’ll find free credit giveaways, contests, and pro tips to help you succeed.
-
 - 💰 **Buy Credits in the App**  
-  The best rates are during **pre-season**, so stocking up early gives you more mileage for your money.
+  The best deals happen **before peak season hits.** Buying early = more tools, more savings.
 
 - ⚡ **Watch for Flash Sales**  
-  From time to time, we’ll run flash sales where you can scoop up extra credits at a discount.
+  We occasionally drop surprise sales with bonus credits—usually when you least expect it.
+
+- 👍 **Like & Follow our Facebook page**  
+  [facebook.com/GloQuest-Official](https://www.facebook.com/p/GloQuest-Official-61566457803398/)  
+  You’ll find free credit giveaways, contests, and pro tips to help you succeed.
 
 ---
 
@@ -40,10 +66,7 @@ For every legitimate referral:
 - They sign up → **You earn credits.**
 - No limits. No cap. Just pure upside.
 
-**Pro Tip:** We’ve seen the best results when users post their referral link in **Christmas light installer groups on Facebook and other social circles.**  
-Some contractors have earned **thousands of credits**, covering most their pre-season costs.
-
-Start sharing in the places where other pros hang out and watch your credits pile up.
+**Pro Tip:** Contractors who post their referral link in **Christmas light installer groups on Facebook** or **installer chats** often earn **hundreds—or even thousands—of credits** before peak season.
 
 ---
 
