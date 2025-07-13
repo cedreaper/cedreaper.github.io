@@ -72,6 +72,20 @@ For every legitimate referral:
 
 ---
 
+## 🌟 Stand Out: Activate Your Spotlight
+
+Want to be the first installer clients see?
+
+**Installer Spotlight** puts you in front of everyone browsing your area — even if they don’t request a quote. That means more direct messages, more visibility, and more high-ticket jobs.
+
+- 📅 Runs for 30 days
+- 🔑 Just 10 credits (best value)
+- ⚠️ Limited slots per state
+
+Don’t wait until it’s too late. Visit the Spotlight tab in the app.
+
+> 💡 **Pro Tip:** Many pros activate Spotlight **before** the rush begins. It’s a strategic move to dominate your area early.
+
 ## 🔍 What’s Next?
 
 Be sure to explore the other guides available for each tool in your dashboard:
@@ -83,6 +97,20 @@ Be sure to explore the other guides available for each tool in your dashboard:
 - 💼 **Contractor Dashboard**: Manage your entire pipeline in one place.
 
 This guide will evolve as we document more of the things we've been working on — more features, walkthroughs, and pro tips are coming soon.
+
+---
+
+## 📢 Promote Yourself with an Eye-Catching Ad
+
+Want more visibility in the app? Launch a graphic ad that appears where users already explore — no cold outreach needed.
+
+- 🧭 Shown on the state map, lead pages, and in-app email campaigns
+- 🖼️ Upload your own image — no fancy tools required
+- 🏁 Flate rate, no cost per clicks here.
+
+> 💡 **Pro Tip:** Ads are only shown to potential clients — your competitors won’t even know you're being seen.
+
+> 📱 You don’t need a laptop or tablet — everything works right from the smartphone you already carry.
 
 ---
 
