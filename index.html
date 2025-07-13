@@ -119,6 +119,14 @@
     <script>
       const video = document.querySelector('video');
       const unmuteBtn = document.getElementById('unmuteBtn');
+      const cta = document.querySelector('.cta-container');
+      const params = new URLSearchParams(window.location.search);
+
+      if (params.get('hidecta') === 'true') {
+        if (cta) cta.style.display = 'none';
+        video.style.marginTop = '0';
+        unmuteBtn.style.top = '60px';
+      }
 
       unmuteBtn.addEventListener('click', () => {
         video.muted = false;
