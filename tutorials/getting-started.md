@@ -79,7 +79,7 @@ Want to be the first installer clients see?
 **Installer Spotlight** puts you in front of everyone browsing your area — even if they don’t request a quote. That means more direct messages, more visibility, and more high-ticket jobs.
 
 - 📅 Runs for 30 days
-- 🔑 Just 10 credits (best value)
+- 🔑 Turn-Key Solution
 - ⚠️ Limited slots per state
 
 Don’t wait until it’s too late. Visit the Spotlight tab in the app.
