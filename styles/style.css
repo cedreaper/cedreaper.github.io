@@ -41,9 +41,9 @@ footer {
   font-size: 12px;
 }
 
-.flagship-button {
-  background: linear-gradient(135deg, #ffc107, #ff5722);
-  color: #1f1f1f;
+nav button.flagship-button {
+  background: linear-gradient(135deg, #ffc107, #ff5722) !important;
+  color: #1f1f1f !important;
   font-weight: bold;
   font-size: 1.1rem;
   border: 2px solid #ff9800;
