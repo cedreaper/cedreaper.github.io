@@ -94,8 +94,6 @@ Mocking up a house shouldn’t feel like a science fair project. Here’s how fa
 
 ⚠️ **Pro Tip:** Less is more. A clean mockup paired with our quote engine = maximum client FOMO and faster closes.
 
-![Placeholder – Building a Mockup](../../assets/images/rapidglo/mockup-process.png)
-
 ---
 
 ## 🎬 Create a Cinematic Quote <a name="generating-quote"></a>
