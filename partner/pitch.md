@@ -43,7 +43,7 @@ We’re already transforming the seasonal decor industry — and we’re just ge
 Vendors don’t just sit in a directory.  
 They’re actively featured across the GloQuest platform at high-impact moments.
 
-**Dashboard Slide-In Promotions**  
+**App-wide Slide-In Promotions**  
 ![Slide-In Promo](../assets/images/vendors/slideInPromo.png)
 
 **Marquee Banner Exposure (Contractor Dashboard)**  
@@ -53,7 +53,7 @@ They’re actively featured across the GloQuest platform at high-impact moments.
 ![Marquee User](../assets/images/vendors/regUserMarquee.png)
 
 **Email Campaigns + Mentions**  
-![Email Plug](../assets/images/vendors/emailPlug.PNG)
+<img src="../assets/images/vendors/emailPlug.PNG" alt="Email Plug" width="500" />
 
 **Video Banners During Quotes + Demos**  
 ![Video Banners](../assets/images/vendors/videoBanners.png)  
@@ -63,11 +63,11 @@ They’re actively featured across the GloQuest platform at high-impact moments.
 
 ## 💡 Why Partner With Us?
 
-You're not just buying space — you're getting positioned in front of motivated buyers **at the perfect time**.
+You're not just renting space — you're getting positioned in front of motivated buyers **at the perfect time**.
 
 Our platform isn't static. Vendors are seen across:
 
-- 🎯 Slide-in promotions on dashboards
+- 🎯 Slide-in promotions that occur in 8-minute intervals
 - 🧲 Marquee banners during peak usage hours
 - 📩 Email campaigns and user onboarding
 - 📱 Mass text broadcasts to verified contractors
