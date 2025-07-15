@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vendor Spotlight – GloQuest</title>
+    <link rel="stylesheet" href="../styles/style.css" />
+  </head>
+  <body onload="loadMarkdown('vendor-spotlight.md')">
+    <header>
+      <h1>✨ GloQuest Vendor Spotlight</h1>
+      <p>Your products. Our platform. Let’s grow together.</p>
+    </header>
+
+    <nav>
+      <button
+        onclick="loadMarkdown('pitch.md')"
+        class="flagship-button"
+        title="Main vendor partner guide"
+      >
+        🤝 Partner Overview
+      </button>
+      <button onclick="location.href='mailto:vendors@gloquest.app'">
+        📬 Contact Us
+      </button>
+    </nav>
+
+    <main id="content"></main>
+
+    <footer>© 2025 GloQuest | vendor@gloquest.app</footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="../scripts/markdown-loader.js"></script>
+  </body>
+</html>
