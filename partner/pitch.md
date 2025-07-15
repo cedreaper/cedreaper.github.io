@@ -53,7 +53,7 @@ They’re actively featured across the GloQuest platform at high-impact moments.
 ![Marquee User](../assets/images/vendors/regUserMarquee.png)
 
 **Email Campaigns + Mentions**  
-![Email Plug](../assets/images/vendors/emailPlug.jpeg)
+![Email Plug](../assets/images/vendors/emailPlug.PNG)
 
 **Video Banners During Quotes + Demos**  
 ![Video Banners](../assets/images/vendors/videoBanners.png)  
