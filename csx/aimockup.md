@@ -60,7 +60,7 @@ Our **RapidGlo** manual mockup tool is still **lightning fast**, built for pros 
 - The ability to customize beyond two colors.
 - **Built-in measurements** to help with quoting.
 
-[RapidGlo Mockup Tool]()
+[RapidGlo Mockup Tool](./rapidglo.md)
 
 ---
 
