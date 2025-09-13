@@ -55,6 +55,22 @@ Here’s where the magic happens—no wand required. Your tools are grouped into
 
 ---
 
+### 🌳 Tree & Bush Mode (a.k.a. No More Dot-by-Dot Torture)
+
+Let’s be real—drawing every single light strand around a bush is about as fun as untangling last year’s extension cords. That’s why **Tree Mode** exists.
+
+- Just flip to **Tree Mode**, circle the canopy (or bush blob), and RapidGlo sprinkles mini-lights across it automagically.
+- Instant twinkly glory, **zero carpal tunnel required**.
+- What used to take 10 minutes now takes 10 seconds—and you still look like a detail-obsessed pro.
+
+Think of it as the “spray paint can” from MS Paint, but for lights—except instead of looking like chaos, your bushes come out looking showroom-ready.
+
+> 🎄 **Installer Translation:** Less time drawing dots = more time closing deals (or more time arguing with your buddy about who wrapped the tree better).
+
+![Tree & Bush Mode](../../assets/images/rapidglo/tree-bush-mode.png)
+
+---
+
 ### 💡 Light Settings
 
 - Select your style: warm white, multicolor, all the colors you know—you name it.
